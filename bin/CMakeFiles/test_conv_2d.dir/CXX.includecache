@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/intel_mkl_conv.h
+vector
+-
+complex
+-
+mkl.h
+../include/mkl.h
+
+/home/vitaliy/git/intel-MKL-wrapper-for-CORR-CONV/src/intel_mkl_conv.cpp
+iostream
+-
+intel_mkl_conv.h
+/home/vitaliy/git/intel-MKL-wrapper-for-CORR-CONV/src/intel_mkl_conv.h
+
+/home/vitaliy/git/intel-MKL-wrapper-for-CORR-CONV/src/test_conv_2d.cpp
+iostream
+-
+intel_mkl_conv.h
+/home/vitaliy/git/intel-MKL-wrapper-for-CORR-CONV/src/intel_mkl_conv.h
+

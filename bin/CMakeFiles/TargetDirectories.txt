@@ -1,0 +1,4 @@
+/home/vitaliy/git/intel-MKL-wrapper-for-CORR-CONV/bin/CMakeFiles/rebuild_cache.dir
+/home/vitaliy/git/intel-MKL-wrapper-for-CORR-CONV/bin/CMakeFiles/edit_cache.dir
+/home/vitaliy/git/intel-MKL-wrapper-for-CORR-CONV/bin/CMakeFiles/test_corr_2d.dir
+/home/vitaliy/git/intel-MKL-wrapper-for-CORR-CONV/bin/CMakeFiles/test_conv_2d.dir

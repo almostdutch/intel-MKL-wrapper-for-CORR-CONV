@@ -1,0 +1,1 @@
+/opt/intel/compilers_and_libraries_2020.1.217/linux/bin/intel64/icpc     CMakeFiles/test_conv_2d.dir/src/intel_mkl_conv.cpp.o CMakeFiles/test_conv_2d.dir/src/test_conv_2d.cpp.o  -o test_conv_2d -lmkl_rt 
